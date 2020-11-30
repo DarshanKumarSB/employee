@@ -1,0 +1,4 @@
+com\bezkoder\spring\data\mongodb\controller\EmployeeController.class
+com\bezkoder\spring\data\mongodb\model\Employee.class
+com\bezkoder\spring\data\mongodb\repository\EmployeeRepository.class
+com\bezkoder\spring\data\mongodb\SpringBootDataMongodbApplication.class
